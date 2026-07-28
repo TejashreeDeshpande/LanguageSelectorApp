@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Language Selector</string>
+    <string name="screen_title">Choose your language</string>
+    <string name="screen_subtitle">Select the language you want to use in the app.</string>
+    <string name="selected_label">Selected</string>
+
+    <string name="language_en">English</string>
+    <string name="language_es">Spanish</string>
+    <string name="language_fr">French</string>
+    <string name="language_de">German</string>
+</resources>

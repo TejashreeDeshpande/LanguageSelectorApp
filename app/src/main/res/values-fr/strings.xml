@@ -1,0 +1,10 @@
+<resources>
+    <string name="screen_title">Choisissez votre langue</string>
+    <string name="screen_subtitle">Sélectionnez la langue à utiliser dans l’application.</string>
+    <string name="selected_label">Sélectionné</string>
+
+    <string name="language_en">Anglais</string>
+    <string name="language_es">Espagnol</string>
+    <string name="language_fr">Français</string>
+    <string name="language_de">Allemand</string>
+</resources>
